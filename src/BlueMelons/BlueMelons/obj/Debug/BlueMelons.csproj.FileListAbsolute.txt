@@ -1,0 +1,6 @@
+/Volumes/Basic data /StardewMods/BlueMelons/BlueMelons/bin/Debug/BlueMelons.dll
+/Volumes/Basic data /StardewMods/BlueMelons/BlueMelons/bin/Debug/BlueMelons.pdb
+/Volumes/Basic data /StardewMods/BlueMelons/BlueMelons/obj/Debug/BlueMelons.csprojAssemblyReference.cache
+/Volumes/Basic data /StardewMods/BlueMelons/BlueMelons/obj/Debug/BlueMelons.csproj.CoreCompileInputs.cache
+/Volumes/Basic data /StardewMods/BlueMelons/BlueMelons/obj/Debug/BlueMelons.dll
+/Volumes/Basic data /StardewMods/BlueMelons/BlueMelons/obj/Debug/BlueMelons.pdb
