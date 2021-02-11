@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Blue Melons",
+  "Author": "MFyfe",
+  "Version": "0.1.0",
+  "Description": "Makes melons blue.",
+  "UniqueID": "mfyfe.bluemelons",
+  "EntryDll": "BlueMelons.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
