@@ -1,0 +1,13 @@
+{
+
+  "Name": "Purple Krobus",
+   "Author": "MFyfe",
+   "Description": "Makes a new npc. Purpus",
+   "Version": "1.0.0", //so long as it's not 0.0.0
+   "UniqueID": "mfyfe.purpus",
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+   "UpdateKeys": [ "" ], //you get a nexus key when starting to upload
+   
+}
